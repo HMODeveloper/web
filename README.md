@@ -1,5 +1,10 @@
 # HMOIndex - 湖南大学岳麓幻境社官网
 
+> [!WARNING]
+> **本仓库已归档且不再维护.**
+>
+> 湖南大学岳麓幻境社官网已迁移至 [Astro](https://github.com/HMODeveloper/astro) 版本. 本仓库文档不再更新.
+
 ## 1. 简介
 
 这是 **湖南大学 HMO - Minecraft 岳麓幻境社** 的官方网站, 基于 `nuxt` 和 `nuxt-content` 搭建.
